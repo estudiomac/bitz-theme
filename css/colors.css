@@ -1,0 +1,132 @@
+/* 
+	List of colors
+	- white: #fff
+	- red: #ea2a2a
+	- dark: #2b2b2b
+	- blue: #009eed
+	- violet: 9b59b6
+	- green: #2ecc71
+	- yellow: #dd9933
+*/
+
+
+.top-bar .navbar-nav > li > a,
+.black-stripe,
+.navbar-default.top-menu .navbar-nav > li > a,
+.tags a,
+.tags a:hover,
+.hero-articles .content .title,
+.big-buttons li a,
+.big-buttons li,
+#secondary-navigation a,
+#secondary-menu-sidebar ul li, 
+#secondary-menu-sidebar ul ul li a,
+.secondary-menu-toggle span,
+#menu-sidebar .widget-title,
+#menu-sidebar .widget_nav_menu ul li.dropdown a,
+.big-buttons .followers-text {
+	color: #fff;
+}
+.black-stripe {
+	background: #222;	
+}
+.navbar-default.top-menu  {
+	background-color: #009eed;
+}
+.navbar-default.top-menu .navbar-nav > li > a:hover {
+	color: #fff;
+	background: rgba(255,255,255,.16);
+}
+.headline h2 {
+	background-color: #f7f7f7;
+	color: #000;
+}
+.headline h2 a {
+	color: #222;
+}
+.text-danger {
+	color: #ea2a2a !important;
+}
+.heading-line span {
+	background: #222;
+}
+.heading-line {
+	background: #e2e2e2;
+}
+.heading-line.red span {
+	background: #ea2a2a;
+}
+.heading-line.green span {
+	background: #2ecc71;
+}
+.heading-line.blue span{
+	background: #009eed;
+}
+.mm-navbar-size-3 {
+	background: #009eed !important;
+}
+.mm-title,
+.mm-menu.mm-theme-white .mm-navbar a,
+.mm-navbar .mm-btn:first-child {
+	color: #fff !important;
+}
+.post .tags a {
+	color: #999;
+}
+.title a{
+	color: #2b2b2b;
+}
+.title a:hover {
+	color: #009eed;
+	text-decoration: none;
+}
+.big-buttons .network {
+	background-color: #3B5998;
+}
+.twitter .network {
+	background-color: #4099FF;
+}
+.love .network {
+	background-color: #ED1C24;
+}
+.grey {
+	background-color: #f7f7f7;
+}
+#site-footer {
+	color: #b7b7b7;
+	background: #1d1d1d;
+}
+.area .nav > li > a {
+	color: #b7b7b7;
+}
+.upc,
+.upc a,
+.navbar-nav li.megamenu > ul > li > a {
+	color: #333;
+}
+.comment a {
+	color: #009eed !important;
+}
+.navbar-nav li a {
+	color: #777777;
+}
+.tabs-nav li.nav-active a,
+.navbar-nav .menu-post-container > a:hover,
+.navbar-nav li.megamenu .sub-menu li ul.submenu a:hover {
+	color: #009eed;
+}
+.dropdown .sub-menu a:hover {
+	background: #f7f7f7;
+}
+#secondary-navigation-wrapper {
+	background-color: rgba(0, 158, 237, 0.98);
+}
+#secondary-menu-sidebar .secondary-menu-widget-area {
+	border-color: #fff;
+}
+#site-navigation ul li.megamenu-tabs.no-spacing .mmp-img:hover:after {
+	background: rgba(0, 0, 0, 0.20);
+}
+.mm-listview li:hover {
+	background: rgba(0, 0, 0, 0.05);
+}
